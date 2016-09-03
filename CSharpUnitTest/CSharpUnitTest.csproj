@@ -54,6 +54,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="029_DivideTwoIntegersTest.cs" />
+    <Compile Include="065_ValidNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
