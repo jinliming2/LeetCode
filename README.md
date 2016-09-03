@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode [![Build And Tests](https://ci.appveyor.com/api/projects/status/0tnkehhdhxq2qlck?svg=true&retina=true)](https://ci.appveyor.com/project/LimingJin/leetcode/build/tests)
 [![DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](https://img.shields.io/badge/license-WTF%20License-blue.svg)](https://raw.githubusercontent.com/772807886/LeetCode/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/772807886/LeetCode.svg)](https://github.com/772807886/LeetCode/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/772807886/LeetCode.svg)](https://github.com/772807886/LeetCode/network)
@@ -14,7 +14,7 @@ LeetCode OJ
 
 > **LeetCode Link:** [Divide Two Integers | LeetCode OJ](https://leetcode.com/problems/divide-two-integers/)
 
-> **Problem description**
+> **Problem description:**
 
 >> Divide two integers without using multiplication, division and mod operator.
 
