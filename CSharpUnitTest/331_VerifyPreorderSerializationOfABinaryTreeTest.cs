@@ -1,6 +1,5 @@
 ﻿using _331_VerifyPreorderSerializationOfABinaryTree;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
 namespace CSharpUnitTest {
     [TestClass]

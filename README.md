@@ -10,6 +10,7 @@ LeetCode OJ
 
 * [29 Divide Two Integers](#29-divide-two-integers)
 * [65 Valid Number](#65-valid-number)
+* [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal)
 * [331 Verify Preorder Serialization of a Binary Tree](#331-verify-preorder-serialization-of-a-binary-tree)
 
 ## 29 Divide Two Integers
@@ -67,6 +68,51 @@ LeetCode OJ
 > **Pass Rate:** 12.4065%
 
 * [C# Version](https://github.com/772807886/LeetCode/blob/master/CSharp/065_ValidNumber.cs)
+
+## 144 Binary Tree Preorder Traversal
+
+> **Finished Date:** 2016-09-05
+
+> **Tried:** 1
+
+> **LeetCode Link:** [Binary Tree Preorder Traversal | LeetCode OJ](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+> **Problem description:**
+
+>> Given a binary tree, return the preorder traversal of its nodes' values.
+
+>> For example:
+
+>>> Given binary tree `{1,#,2,3}`,
+```
+   1
+    \
+     2
+    /
+   3
+```
+>> return `[1,2,3]`.
+
+>> **Note:** Recursive solution is trivial, could you do it iteratively?
+
+> **Tags:** `Tree`, `Stack`
+
+> **Difficulty:** Medium
+
+> **Pass Rate:** 41.58%
+
+```C#
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left;
+ *     public TreeNode right;
+ *     public TreeNode(int x) { val = x; }
+ * }
+ */
+```
+* [C# Version](https://github.com/772807886/LeetCode/blob/master/CSharp/144_BinaryTreePreorderTraversal.cs)
 
 ## 331 Verify Preorder Serialization of a Binary Tree
 
