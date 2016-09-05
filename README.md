@@ -16,6 +16,8 @@ LeetCode OJ
 
 > **Finished Date:** 2016-09-03
 
+> **Tried:** 5
+
 > **LeetCode Link:** [Divide Two Integers | LeetCode OJ](https://leetcode.com/problems/divide-two-integers/)
 
 > **Problem description:**
@@ -35,6 +37,8 @@ LeetCode OJ
 ## 65 Valid Number
 
 > **Finished Date:** 2016-09-03
+
+> **Tried:** 14
 
 > **LeetCode Link:** [Valid Number | LeetCode OJ](https://leetcode.com/problems/valid-number/)
 
@@ -67,6 +71,8 @@ LeetCode OJ
 ## 331 Verify Preorder Serialization of a Binary Tree
 
 > **Finished Date:** 2016-09-05
+
+> **Tried:** 3
 
 > **LeetCode Link:** [Verify Preorder Serialization of a Binary Tree | LeetCode OJ](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 
