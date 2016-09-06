@@ -8,10 +8,39 @@ LeetCode OJ
 
 ## List
 
+* [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters)
 * [29 Divide Two Integers](#29-divide-two-integers)
 * [65 Valid Number](#65-valid-number)
 * [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal)
 * [331 Verify Preorder Serialization of a Binary Tree](#331-verify-preorder-serialization-of-a-binary-tree)
+
+## 3 Longest Substring Without Repeating Characters
+
+> **Finished Date:** 2016-09-06
+
+> **Tried:** 1
+
+> **LeetCode Link:** [Longest Substring Without Repeating Characters | LeetCode OJ](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+> **Problem description:**
+
+>> Given a string, find the length of the **longest substring** without repeating characters.
+
+>> Examples:
+
+>>> Given `"abcabcbb"`, the answer is `"abc"`, which the length is 3.
+    
+>>> Given `"bbbbb"`, the answer is `"b"`, with the length of 1.
+    
+>>> Given `"pwwkew"`, the answer is `"wke"`, with the length of 3. Note that the answer must be a **substring**, `"pwke"` is a subsequence and not a substring.
+
+> **Tags:** `Hash Table`, `Two Pointers`, `String`
+
+> **Difficulty:** Medium
+
+> **Pass Rate:** 23.0575%
+
+* [C# Version](https://github.com/772807886/LeetCode/blob/master/CSharp/003_LongestSubstringWithoutRepeatingCharacters.cs)
 
 ## 29 Divide Two Integers
 

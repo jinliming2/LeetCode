@@ -38,6 +38,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="003_LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="029_DivideTwoIntegers.cs" />
     <Compile Include="065_ValidNumber.cs" />
     <Compile Include="144_BinaryTreePreorderTraversal.cs" />

@@ -53,6 +53,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="003_LongestSubstringWithoutRepeatingCharactersTest.cs" />
     <Compile Include="029_DivideTwoIntegersTest.cs" />
     <Compile Include="065_ValidNumberTest.cs" />
     <Compile Include="144_BinaryTreePreorderTraversalTest.cs" />
