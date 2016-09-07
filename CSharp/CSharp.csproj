@@ -42,6 +42,7 @@
     <Compile Include="029_DivideTwoIntegers.cs" />
     <Compile Include="065_ValidNumber.cs" />
     <Compile Include="144_BinaryTreePreorderTraversal.cs" />
+    <Compile Include="236_LowestCommonAncestorOfABinaryTree.cs" />
     <Compile Include="331_VerifyPreorderSerializationOfABinaryTree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -12,6 +12,7 @@ LeetCode OJ
 * [29 Divide Two Integers](#29-divide-two-integers)
 * [65 Valid Number](#65-valid-number)
 * [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal)
+* [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree)
 * [331 Verify Preorder Serialization of a Binary Tree](#331-verify-preorder-serialization-of-a-binary-tree)
 
 ## 3 Longest Substring Without Repeating Characters
@@ -142,6 +143,49 @@ LeetCode OJ
  */
 ```
 * [C# Version](https://github.com/772807886/LeetCode/blob/master/CSharp/144_BinaryTreePreorderTraversal.cs)
+
+## 236 Lowest Common Ancestor of a Binary Tree
+
+> **Finished Date:** 2016-09-07
+
+> **Tried:** 5
+
+> **LeetCode Link:** [Lowest Common Ancestor of a Binary Tree | LeetCode OJ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+> **Problem description:**
+
+>> Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
+
+>> According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes v and w as the lowest node in T that has both v and w as descendants (where we allow **a node to be a descendant of itself**).”
+```
+        _______3______
+       /              \
+    ___5__          ___1__
+   /      \        /      \
+   6      _2       0       8
+         /  \
+         7   4
+```
+>> For example, the lowest common ancestor (LCA) of nodes `5` and `1` is `3`. Another example is LCA of nodes `5` and `4` is `5`, since a node can be a descendant of itself according to the LCA definition.
+
+> **Tags:** `Tree`
+
+> **Difficulty:** Medium
+
+> **Pass Rate:** 29.09%
+
+```C#
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left;
+ *     public TreeNode right;
+ *     public TreeNode(int x) { val = x; }
+ * }
+ */
+```
+* [C# Version](https://github.com/772807886/LeetCode/blob/master/CSharp/236_LowestCommonAncestorOfABinaryTree.cs)
 
 ## 331 Verify Preorder Serialization of a Binary Tree
 
