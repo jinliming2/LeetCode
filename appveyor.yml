@@ -16,8 +16,6 @@ for:
     build: off
     stack: go 1.15.6
     before_test:
-      - cd Go
       - go vet ./...
     test_script:
-      - cd Go
       - go test ./...
