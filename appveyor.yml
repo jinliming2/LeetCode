@@ -1,0 +1,23 @@
+version: '{build}'
+skip_tags: true
+image:
+  - Visual Studio 2019
+  - Ubuntu2004
+for:
+  - matrix:
+      only:
+        - image: Visual Studio 2019
+    build:
+      project: C#\LeetCode.sln
+      verbosity: minimal
+  - matrix:
+      only:
+        - image: Ubuntu2004
+    build: off
+    stack: go 1.15.6
+    before_test:
+      - cd Go
+      - go vet ./...
+    test_script:
+      - cd Go
+      - go test ./...
