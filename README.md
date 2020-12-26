@@ -22,6 +22,7 @@ LeetCode OJ
 
 * [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters-back-to-list)
 * [29 Divide Two Integers](#29-divide-two-integers-back-to-list)
+* [46 Permutations](#46-permutations-back-to-list)
 * [65 Valid Number](#65-valid-number-back-to-list)
 * [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal-back-to-list)
 * [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree-back-to-list)
@@ -75,6 +76,45 @@ LeetCode OJ
 > **Pass Rate:** 15.927%
 
 * [C# Version](./C#/CSharp/029_DivideTwoIntegers.cs)
+
+## 46 Permutations *[Back To List][BackToList]*
+
+> **Finished Date:** 2020-12-26
+>
+> **Tried:** 1
+>
+> **LeetCode Link:** [Permutations - LeetCode](https://leetcode.com/problems/permutations/)
+>
+> **Problem description:**
+>> Given an array `nums` of distinct integers, return *all the possible permutations*. You can return the answer in **any order**.
+>>
+>> Example 1:
+>> ```
+>> Input: nums = [1,2,3]
+>> Output: [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
+>> ```
+>> Example 2:
+>> ```
+>> Input: nums = [0,1]
+>> Output: [[0,1],[1,0]]
+>> ```
+>> Example 3:
+>> ```
+>> Input: nums = [1]
+>> Output: [[1]]
+>> ```
+>> Constraints:
+>> - 1 <= nums.length <= 6
+>> - -10 <= nums[i] <= 10
+>> - All the integers of `nums` are unique.
+>
+> **Tags:** `Backtracking`
+>
+> **Difficulty:** Medium
+>
+> **Pass Rate:** 65.6961%
+
+* [Go Version](./Go/46_Permutations/main.go)
 
 ## 65 Valid Number *[Back To List][BackToList]*
 
@@ -208,40 +248,35 @@ LeetCode OJ
 >> You may assume that you have an infinite number of each kind of coin.
 >>
 >> Example 1:
->>> ```
->>> Input: coins = [1,2,5], amount = 11
->>> Output: 3
->>> Explanation: 11 = 5 + 5 + 1
->>> ```
->>
+>> ```
+>> Input: coins = [1,2,5], amount = 11
+>> Output: 3
+>> Explanation: 11 = 5 + 5 + 1
+>> ```
 >> Example 2:
->>> ```
->>> Input: coins = [2], amount = 3
->>> Output: -1
->>> ```
->>
+>> ```
+>> Input: coins = [2], amount = 3
+>> Output: -1
+>> ```
 >> Example 3:
->>> ```
->>> Input: coins = [1], amount = 0
->>> Output: 0
->>> ```
->>
+>> ```
+>> Input: coins = [1], amount = 0
+>> Output: 0
+>> ```
 >> Example 4:
->>> ```
->>> Input: coins = [1], amount = 1
->>> Output: 1
->>> ```
->>
+>> ```
+>> Input: coins = [1], amount = 1
+>> Output: 1
+>> ```
 >> Example 5:
->>> ```
->>> Input: coins = [1], amount = 2
->>> Output: 2
->>> ```
->>
+>> ```
+>> Input: coins = [1], amount = 2
+>> Output: 2
+>> ```
 >> Constraints:
->>> - 1 <= coins.length <= 12
->>> - 1 <= coins[i] <= 2<sup>31</sup> - 1
->>> - 0 <= amount <= 10<sup>4</sup>
+>> - 1 <= coins.length <= 12
+>> - 1 <= coins[i] <= 2<sup>31</sup> - 1
+>> - 0 <= amount <= 10<sup>4</sup>
 >
 > **Tags:** `Dynamic Programming`
 >
@@ -318,26 +353,23 @@ LeetCode OJ
 >> Given `n`, calculate `F(n)`.
 >>
 >> Example 1:
->>> ```
->>> Input: n = 2
->>> Output: 1
->>> Explanation: F(2) = F(1) + F(0) = 1 + 0 = 1.
->>> ```
->>
+>> ```
+>> Input: n = 2
+>> Output: 1
+>> Explanation: F(2) = F(1) + F(0) = 1 + 0 = 1.
+>> ```
 >> Example 2:
->>> ```
->>> Input: n = 3
->>> Output: 2
->>> Explanation: F(3) = F(2) + F(1) = 1 + 1 = 2.
->>> ```
->>
+>> ```
+>> Input: n = 3
+>> Output: 2
+>> Explanation: F(3) = F(2) + F(1) = 1 + 1 = 2.
+>> ```
 >> Example 3:
->>> ```
->>> Input: n = 4
->>> Output: 3
->>> Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
->>> ```
->>
+>> ```
+>> Input: n = 4
+>> Output: 3
+>> Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
+>> ```
 >> Constraints:
 >> - `0 <= n <= 30`
 >
