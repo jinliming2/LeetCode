@@ -20,13 +20,14 @@ LeetCode OJ
 [BackToList]:#list
 ## List
 
-* [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters-go-to-list)
-* [29 Divide Two Integers](#29-divide-two-integers-go-to-list)
-* [65 Valid Number](#65-valid-number-go-to-list)
-* [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal-go-to-list)
-* [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree-go-to-list)
-* [331 Verify Preorder Serialization of a Binary Tree](#331-verify-preorder-serialization-of-a-binary-tree-go-to-list)
-* [509 Fibonacci Number](#509-fibonacci-number)
+* [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters-back-to-list)
+* [29 Divide Two Integers](#29-divide-two-integers-back-to-list)
+* [65 Valid Number](#65-valid-number-back-to-list)
+* [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal-back-to-list)
+* [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree-back-to-list)
+* [322 Coin Change](#322-coin-change-back-to-list)
+* [331 Verify Preorder Serialization of a Binary Tree](#331-verify-preorder-serialization-of-a-binary-tree-back-to-list)
+* [509 Fibonacci Number](#509-fibonacci-number-back-to-list)
 
 ## 3 Longest Substring Without Repeating Characters *[Back To List][BackToList]*
 
@@ -155,6 +156,56 @@ LeetCode OJ
  */
 ```
 * [C# Version](./C#/CSharp/236_LowestCommonAncestorOfABinaryTree.cs)
+
+## 322 Coin Change *[Back To List][BackToList]*
+
+> **Finished Date:** 2020-12-26
+> **Tried:** 3
+> **LeetCode Link:** [Coin Change - LeetCode](https://leetcode.com/problems/coin-change/)
+> **Problem description:**
+>> You are given coins of different denominations and a total amount of money amount. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return `-1`.
+>> You may assume that you have an infinite number of each kind of coin.
+>> Example 1:
+>>> ```
+>>> Input: coins = [1,2,5], amount = 11
+>>> Output: 3
+>>> Explanation: 11 = 5 + 5 + 1
+>>> ```
+>>
+>> Example 2:
+>>> ```
+>>> Input: coins = [2], amount = 3
+>>> Output: -1
+>>> ```
+>>
+>> Example 3:
+>>> ```
+>>> Input: coins = [1], amount = 0
+>>> Output: 0
+>>> ```
+>>
+>> Example 4:
+>>> ```
+>>> Input: coins = [1], amount = 1
+>>> Output: 1
+>>> ```
+>>
+>> Example 5:
+>>> ```
+>>> Input: coins = [1], amount = 2
+>>> Output: 2
+>>> ```
+>>
+>> Constraints:
+>>> - 1 <= coins.length <= 12
+>>> - 1 <= coins[i] <= 2<sup>31</sup> - 1
+>>> - 0 <= amount <= 10<sup>4</sup>
+>
+> **Tags:** `Dynamic Programming`
+> **Difficulty:** Medium
+> **Pass Rate:** 36.72237%
+
+* [Go Version](./Go/322_Coin_Change/main.go)
 
 ## 331 Verify Preorder Serialization of a Binary Tree *[Back To List][BackToList]*
 
