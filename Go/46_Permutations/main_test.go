@@ -10,7 +10,7 @@ func TestPermute(t *testing.T) {
 	} {
 		value := permute(*input)
 		if len(output) != len(value) {
-			t.Errorf("Expected len(permute(%v)) == %d , But got %d", output, len(output), len(value))
+			t.Errorf("Expected len(permute(%v)) == %d , But got %d", input, len(output), len(value))
 			continue
 		}
 	itemLoop:

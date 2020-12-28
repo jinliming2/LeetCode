@@ -23,6 +23,7 @@ LeetCode OJ
 * [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters-back-to-list)
 * [29 Divide Two Integers](#29-divide-two-integers-back-to-list)
 * [46 Permutations](#46-permutations-back-to-list)
+* [51 N-Queens](#51-n-queens-back-to-list)
 * [65 Valid Number](#65-valid-number-back-to-list)
 * [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal-back-to-list)
 * [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree-back-to-list)
@@ -115,6 +116,45 @@ LeetCode OJ
 > **Pass Rate:** 65.6961%
 
 * [Go Version](./Go/46_Permutations/main.go)
+
+## 51 N-Queens *[Back To List][BackToList]*
+
+> **Finished Date:** 2020-12-29
+>
+> **Tried:** 3
+>
+> **LeetCode Link:** [N-Queens - LeetCode](https://leetcode.com/problems/n-queens/)
+>
+> **Problem description:**
+>> The **n-queens** puzzle is the problem of placing `n` queens on an `n x n` chessboard such that no two queens attack each other.
+>>
+>> Given an integer `n`, return *all distinct solutions to the **n-queens puzzle***.
+>>
+>> Each solution contains a distinct board configuration of the n-queens' placement, where `'Q'` and `'.'` both indicate a queen and an empty space, respectively.
+>>
+>> Example 1:
+>>
+>> ![4-Queens](./assets/51.N-Queens.jpg)
+>> ```
+>> Input: n = 4
+>> Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
+>> Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above
+>> ```
+>> Example 2:
+>> ```
+>> Input: n = 1
+>> Output: [["Q"]]
+>> ```
+>> Constraints:
+>> - 1 <= n <= 9
+>
+> **Tags:** `Backtracking`
+>
+> **Difficulty:** Hard
+>
+> **Pass Rate:** 48.738965%
+
+* [Go Version](./Go/51_N_Queens/main.go)
 
 ## 65 Valid Number *[Back To List][BackToList]*
 
