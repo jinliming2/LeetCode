@@ -378,6 +378,7 @@ LeetCode OJ
 >
 > **Pass Rate:** 36.72237%
 
+* [Go Version 0](./Go/322_Coin_Change/version0.go)
 * [Go Version](./Go/322_Coin_Change/main.go)
 
 ## 331 Verify Preorder Serialization of a Binary Tree *[Back To List][BackToList]*
