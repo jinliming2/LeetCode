@@ -25,6 +25,7 @@ LeetCode OJ
 * [46 Permutations](#46-permutations-back-to-list)
 * [51 N-Queens](#51-n-queens-back-to-list)
 * [65 Valid Number](#65-valid-number-back-to-list)
+* [111 Minimum Depth of Binary Tree](#111-minimum-depth-of-binary-tree-back-to-list)
 * [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal-back-to-list)
 * [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree-back-to-list)
 * [322 Coin Change](#322-coin-change-back-to-list)
@@ -187,6 +188,59 @@ LeetCode OJ
 > **Pass Rate:** 12.4065%
 
 * [C# Version](./C#/CSharp/065_ValidNumber.cs)
+
+## 111 Minimum Depth of Binary Tree *[Back To List][BackToList]*
+
+> **Finished Date:** 2020-12-30
+>
+> **Tried:** 2
+>
+> **LeetCode Link:** [Minimum Depth of Binary Tree - LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+>
+> **Problem description:**
+>> Given a binary tree, find its minimum depth.
+>>
+>> The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+>>
+>> **Note:** A leaf is a node with no children.
+>>
+>> Example 1:
+>> ```
+>>    ____3___
+>>   /        \
+>>  9       __20__
+>>         /      \
+>>        15       7
+>>
+>> Input: root = [3,9,20,null,null,15,7]
+>> Output: 2
+>> ```
+>> Example 2:
+>> ```
+>> Input: root = [2,null,3,null,4,null,5,null,6]
+>> Output: 5
+>> ```
+>> Constraints:
+>> - The number of nodes in the tree is in the range [0, 10<sup>5</sup>].
+>> - -1000 <= Node.val <= 1000
+>
+> **Tags:** `Tree`, `Depth-first Search`, `Breadth-first Search`
+>
+> **Difficulty:** Easy
+>
+> **Pass Rate:** 39.07%
+
+```Go
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+```
+* [Go Version](./Go/111_Minimum_Depth_of_Binary_Tree/main.go)
 
 ## 144 Binary Tree Preorder Traversal *[Back To List][BackToList]*
 
