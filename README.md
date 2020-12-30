@@ -193,7 +193,7 @@ LeetCode OJ
 
 > **Finished Date:** 2020-12-30
 >
-> **Tried:** 2
+> **Tried:** 2(BFS) + 3(DFS)
 >
 > **LeetCode Link:** [Minimum Depth of Binary Tree - LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 >
@@ -240,7 +240,8 @@ LeetCode OJ
  * }
  */
 ```
-* [Go Version](./Go/111_Minimum_Depth_of_Binary_Tree/main.go)
+* [Go Version BFS](./Go/111_Minimum_Depth_of_Binary_Tree/bfs.go)
+* [Go Version DFS](./Go/111_Minimum_Depth_of_Binary_Tree/dfs.go)
 
 ## 144 Binary Tree Preorder Traversal *[Back To List][BackToList]*
 
