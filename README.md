@@ -63,6 +63,8 @@ LeetCode OJ
 > **Pass Rate:** 23.0575%
 
 * [C# Version](./C#/CSharp/003_LongestSubstringWithoutRepeatingCharacters.cs)
+* [Go Version v1](./Go/3_Longest_Substring_Without_Repeating_Characters/v1.go)
+* [Go Version v2](./Go/3_Longest_Substring_Without_Repeating_Characters/v2.go)
 
 ## 29 Divide Two Integers *[Back To List][BackToList]*
 
