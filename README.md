@@ -33,6 +33,7 @@ LeetCode OJ
 * [322 Coin Change](#322-coin-change-back-to-list)
 * [331 Verify Preorder Serialization of a Binary Tree](#331-verify-preorder-serialization-of-a-binary-tree-back-to-list)
 * [509 Fibonacci Number](#509-fibonacci-number-back-to-list)
+* [567 Permutation in String](#567-permutation-in-string-back-to-list)
 * [704 Binary Search](#704-binary-search-back-to-list)
 * [752 Open the Lock](#752-open-the-lock-back-to-list)
 
@@ -561,6 +562,41 @@ LeetCode OJ
 > **Pass Rate:** 67.17115%
 
 * [Go Version](./Go/509_Fibonacci_Number/main.go)
+
+## 567 Permutation in String *[Back To List][BackToList]*
+
+> **Finished Date:** 2021-01-02
+>
+> **Tried:** 2
+>
+> **LeetCode Link:** [Permutation in String - LeetCode](https://leetcode.com/problems/permutation-in-string/)
+>
+> **Problem description:**
+>> Given two strings **s1** and **s2**, write a function to return true if **s2** contains the permutation of **s1**. In other words, one of the first string's permutations is the **substring** of the second string.
+>>
+>> Example 1:
+>> ```
+>> Input: s1 = "ab" s2 = "eidbaooo"
+>> Output: True
+>> Explanation: s2 contains one permutation of s1 ("ba").
+>> ```
+>> Example 2:
+>> ```
+>> Input:s1= "ab" s2 = "eidboaoo"
+>> Output: False
+>> ```
+>> Constraints:
+>> - The input strings only contain lower case letters.
+>> - The length of both given strings is in range [1, 10,000].
+>
+> **Tags:** `Two Pointers`, `Sliding Window`
+>
+> **Difficulty:** Medium
+>
+> **Pass Rate:** 44.5186%
+
+* [Go Version 1](./Go/567_Permutation_in_String/v1.go)
+* [Go Version 2](./Go/567_Permutation_in_String/v2.go)
 
 ## 704 Binary Search *[Back To List][BackToList]*
 
