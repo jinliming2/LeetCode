@@ -26,6 +26,7 @@ LeetCode OJ
 * [46 Permutations](#46-permutations-back-to-list)
 * [51 N-Queens](#51-n-queens-back-to-list)
 * [65 Valid Number](#65-valid-number-back-to-list)
+* [76 Minimum Window Substring](#76-minimum-window-substring-back-to-list)
 * [111 Minimum Depth of Binary Tree](#111-minimum-depth-of-binary-tree-back-to-list)
 * [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal-back-to-list)
 * [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree-back-to-list)
@@ -236,6 +237,43 @@ LeetCode OJ
 
 * [C# Version](./C#/CSharp/065_ValidNumber.cs)
 
+## 76 Minimum Window Substring *[Back To List][BackToList]*
+
+> **Finished Date:** 2021-01-02
+>
+> **Tried:** 1
+>
+> **LeetCode Link:** [Minimum Window Substring - LeetCode](https://leetcode.com/problems/minimum-window-substring/)
+>
+> **Problem description:**
+>> Given two strings `s` and `t`, return *the minimum window in `s` which will contain all the characters in `t`*. If there is no such window in `s` that covers all characters in `t`, return *the empty string `""`*.
+>>
+>> **Note** that If there is such a window, it is guaranteed that there will always be only one unique minimum window in `s`.
+>>
+>> Example 1:
+>> ```
+>> Input: s = "ADOBECODEBANC", t = "ABC"
+>> Output: "BANC"
+>> ```
+>> Example 2:
+>> ```
+>> Input: s = "a", t = "a"
+>> Output: "a"
+>> ```
+>> Constraints:
+>> - 1 <= s.length, t.length <= 10<sup>5</sup>
+>> - `s` and `t` consist of English letters.
+>>
+>> **Follow up:** Could you find an algorithm that runs in `O(n)` time?
+>
+> **Tags:** `Hash Table`, `Two Pointers`, `String`, `Sliding Window`
+>
+> **Difficulty:** Hard
+>
+> **Pass Rate:** 35.595%
+
+* [Go Version](./Go/76_Minimum_Window_Substring/main.go)
+
 ## 111 Minimum Depth of Binary Tree *[Back To List][BackToList]*
 
 > **Finished Date:** 2020-12-30
@@ -287,8 +325,8 @@ LeetCode OJ
  * }
  */
 ```
-* [Go Version BFS](./Go/111_Minimum_Depth_of_Binary_Tree/bfs.go)
-* [Go Version DFS](./Go/111_Minimum_Depth_of_Binary_Tree/dfs.go)
+* [Go BFS Version](./Go/111_Minimum_Depth_of_Binary_Tree/bfs.go)
+* [Go DFS Version](./Go/111_Minimum_Depth_of_Binary_Tree/dfs.go)
 
 ## 144 Binary Tree Preorder Traversal *[Back To List][BackToList]*
 
