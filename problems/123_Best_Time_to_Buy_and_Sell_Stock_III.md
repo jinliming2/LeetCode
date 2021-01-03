@@ -1,8 +1,8 @@
-# 122 Best Time to Buy and Sell Stock III
+# 123 Best Time to Buy and Sell Stock III
 
 - **Finished Date:** 2021-01-03
 - **Tried:** 2
-- **LeetCode Link:** [Best Time to Buy and Sell Stock II - LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- **LeetCode Link:** [Best Time to Buy and Sell Stock III - LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - **Tags:** [`Array`](https://leetcode.com/tag/array/), [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)
 - **Difficulty:** Hard
 - **Pass Rate:** 39.575%
