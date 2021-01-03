@@ -3,7 +3,6 @@
 - **Finished Date:** 2021-01-03
 - **Tried:** 1
 - **LeetCode Link:** [Best Time to Buy and Sell Stock II - LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-
 - **Tags:** [`Array`](https://leetcode.com/tag/array/), [`Greedy`](https://leetcode.com/tag/greedy/)
 - **Difficulty:** Easy
 - **Pass Rate:** 58.13%
