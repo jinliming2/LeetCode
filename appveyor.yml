@@ -17,9 +17,9 @@ for:
     stack: go 1.15.6
     before_test:
       - go vet ./Go/...
-      - go get -u github.com/jstemmer/go-junit-report
     test_script:
       - go test -v ./Go/... 2>&1 | tee results.txt
-      - cat results.txt | go-junit-report > report.xml
     on_finish:
+      - go get -u github.com/jstemmer/go-junit-report
+      - cat results.txt | go-junit-report > report.xml
       - curl -F 'file=@report.xml' "https://ci.appveyor.com/api/testresults/junit/${APPVEYOR_JOB_ID}"
