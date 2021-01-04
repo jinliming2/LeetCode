@@ -24,6 +24,7 @@ LeetCode OJ
 1. [34 Find First and Last Position of Element in Sorted Array](./problems/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
 1. [46 Permutations](./problems/46_Permutations.md)
 1. [51 N-Queens](./problems/51_N_Queens.md)
+1. [56 Merge Intervals](./problems/56_Merge_Intervals.md)
 1. [65 Valid Number](./problems/65_Valid_Number.md)
 1. [76 Minimum Window Substring](./problems/76_Minimum_Window_Substring.md)
 1. [111 Minimum Depth of Binary Tree](./problems/111_Minimum_Depth_of_Binary_Tree.md)
