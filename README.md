@@ -19,6 +19,7 @@ LeetCode OJ
 
 ## List
 
+1. [1 Two Sum](./problems/1_Two_Sum.md)
 1. [3 Longest Substring Without Repeating Characters](./problems/3_Longest_Substring_Without_Repeating_Characters.md)
 1. [29 Divide Two Integers](./problems/29_Divide_Two_Integers.md)
 1. [34 Find First and Last Position of Element in Sorted Array](./problems/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
@@ -46,4 +47,5 @@ LeetCode OJ
 1. [704 Binary Search](./problems/704_Binary_Search.md)
 1. [714 Best Time to Buy and Sell Stock with Transaction Fee](./problems/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md)
 1. [752 Open the Lock](./problems/752_Open_the_Lock.md)
+1. [986 Interval List Intersections](./problems/986_Interval_List_Intersections.md)
 1. [1288 Remove Covered Intervals](./problems/1288_Remove_Covered_Intervals.md)
