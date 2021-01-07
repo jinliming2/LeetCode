@@ -31,6 +31,7 @@ LeetCode OJ
 1. [65 Valid Number](./problems/65_Valid_Number.md)
 1. [76 Minimum Window Substring](./problems/76_Minimum_Window_Substring.md)
 1. [111 Minimum Depth of Binary Tree](./problems/111_Minimum_Depth_of_Binary_Tree.md)
+1. [114 Flatten Binary Tree to Linked List](./problems/114_Flatten_Binary_Tree_to_Linked_List.md)
 1. [121 Best Time to Buy and Sell Stock](./problems/121_Best_Time_to_Buy_and_Sell_Stock.md)
 1. [122 Best Time to Buy and Sell Stock II](./problems/122_Best_Time_to_Buy_and_Sell_Stock_II.md)
 1. [123 Best Time to Buy and Sell Stock III](./problems/123_Best_Time_to_Buy_and_Sell_Stock_III.md)

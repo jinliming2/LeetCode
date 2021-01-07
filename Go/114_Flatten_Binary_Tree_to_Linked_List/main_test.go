@@ -9,31 +9,28 @@ import (
 func TestInvertTree(t *testing.T) {
 	for input, output := range map[*TreeNode]string{
 		{
-			Val: 4,
+			Val: 1,
 			Left: &TreeNode{
 				Val: 2,
 				Left: &TreeNode{
-					Val: 1,
+					Val: 3,
 				},
 				Right: &TreeNode{
-					Val: 3,
+					Val: 4,
 				},
 			},
 			Right: &TreeNode{
-				Val: 7,
-				Left: &TreeNode{
+				Val: 5,
+				Right: &TreeNode{
 					Val: 6,
 				},
-				Right: &TreeNode{
-					Val: 9,
-				},
 			},
-		}: "4 7 9 null null 6 null null 2 3 null null 1 null null",
+		}: "1 null 2 null 3 null 4 null 5 null 6 null null",
 	} {
-		tree := invertTree(input)
+		flatten(input)
 		var value []string
-		if printTree(tree, &value); strings.Join(value, " ") != output {
-			t.Errorf("invertTree got wrong answer %v", value)
+		if printTree(input, &value); strings.Join(value, " ") != output {
+			t.Errorf("flatten got wrong answer %v", value)
 		}
 	}
 }
