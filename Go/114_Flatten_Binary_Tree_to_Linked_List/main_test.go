@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func TestInvertTree(t *testing.T) {
+func TestFlatten(t *testing.T) {
 	for input, output := range map[*TreeNode]string{
 		{
 			Val: 1,
