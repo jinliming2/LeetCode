@@ -32,6 +32,7 @@ LeetCode OJ
 1. [65 Valid Number](./problems/65_Valid_Number.md)
 1. [76 Minimum Window Substring](./problems/76_Minimum_Window_Substring.md)
 1. [92 Reverse Linked List II](./problems/92_Reverse_Linked_List_II.md)
+1. [105 Construct Binary Tree from Preorder and Inorder Traversal](./problems/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)
 1. [111 Minimum Depth of Binary Tree](./problems/111_Minimum_Depth_of_Binary_Tree.md)
 1. [114 Flatten Binary Tree to Linked List](./problems/114_Flatten_Binary_Tree_to_Linked_List.md)
 1. [116 Populating Next Right Pointers in Each Node](./problems/116_Populating_Next_Right_Pointers_in_Each_Node.md)
