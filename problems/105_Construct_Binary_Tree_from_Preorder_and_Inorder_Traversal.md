@@ -2,7 +2,7 @@
 
 - **Finished Date:** 2021-01-12
 - **Tried:** 2
-- **LeetCode Link:** [Construct Binary Tree from Preorder and Inorder Traversal - LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)
+- **LeetCode Link:** [Construct Binary Tree from Preorder and Inorder Traversal - LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - **Tags:** [`Array`](https://leetcode.com/tag/array/), [`Tree`](https://leetcode.com/tag/tree/), [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)
 - **Difficulty:** Medium
 - **Pass Rate:** 51.1503%
