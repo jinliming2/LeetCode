@@ -56,6 +56,7 @@ LeetCode OJ
 1. [454 4Sum II](./problems/454_4Sum_II.md)
 1. [509 Fibonacci Number](./problems/509_Fibonacci_Number.md)
 1. [567 Permutation in String](./problems/567_Permutation_in_String.md)
+1. [652 Find Duplicate Subtrees](./problems/652_Find_Duplicate_Subtrees.md)
 1. [654 Maximum Binary Tree](./problems/654_Maximum_Binary_Tree.md)
 1. [704 Binary Search](./problems/704_Binary_Search.md)
 1. [714 Best Time to Buy and Sell Stock with Transaction Fee](./problems/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md)
