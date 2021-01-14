@@ -45,6 +45,7 @@ LeetCode OJ
 1. [198 House Robber](./problems/198_House_Robber.md)
 1. [213 House Robber II](./problems/213_House_Robber_II.md)
 1. [226 Invert Binary Tree](./problems/226_Invert_Binary_Tree.md)
+1. [230 Kth Smallest Element in a BST](./problems/230_Kth_Smallest_Element_in_a_BST.md)
 1. [234 Palindrome Linked List](./problems/234_Palindrome_Linked_List.md)
 1. [236 Lowest Common Ancestor of a Binary Tree](./problems/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
 1. [309 Best Time to Buy and Sell Stock with Cooldown](./problems/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md)
