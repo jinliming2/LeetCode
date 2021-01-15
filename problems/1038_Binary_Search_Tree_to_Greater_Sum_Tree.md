@@ -1,13 +1,13 @@
-# 538 Convert BST to Greater Tree
+# 1038 Binary Search Tree to Greater Sum Tree
 
 - **Finished Date:** 2021-01-15
 - **Tried:** 1
-- **LeetCode Link:** [Convert BST to Greater Tree - LeetCode](https://leetcode.com/problems/convert-bst-to-greater-tree/)
-- **Tags:** [`Tree`](https://leetcode.com/tag/tree/)
+- **LeetCode Link:** [Binary Search Tree to Greater Sum Tree - LeetCode](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+- **Tags:** [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)
 - **Difficulty:** Medium
-- **Pass Rate:** 56.5426%
+- **Pass Rate:** 82.02%
 
-[Go Version](../Go/538_Convert_BST_to_Greater_Tree/main.go)
+[Go Version](../Go/1038_Binary_Search_Tree_to_Greater_Sum_Tree/main.go)
 
 ## Problem description
 
@@ -19,12 +19,12 @@ As a reminder, a *binary search tree* is a tree that satisfies these constraints
 - The right subtree of a node contains only nodes with keys **greater than** the node's key.
 - Both the left and right subtrees must also be binary search trees.
 
-**Note:** This question is the same as 1038: [1038 Binary Search Tree to Greater Sum Tree](./1038_Binary_Search_Tree_to_Greater_Sum_Tree.md)
+**Note:** This question is the same as 538: [538 Convert BST to Greater Tree](./538_Convert_BST_to_Greater_Tree.md)
 
 ### Constraints
 
-- The number of nodes in the tree is in the range [0, 10<sup>4</sup>].
-- -10<sup>4</sup> <= Node.val <= 10<sup>4</sup>
+- The number of nodes in the tree is in the range `[0, 100]`.
+- `0 <= Node.val <= 100`
 - All the values in the tree are **unique**.
 - `root` is guaranteed to be a valid binary search tree.
 
@@ -32,7 +32,7 @@ As a reminder, a *binary search tree* is a tree that satisfies these constraints
 
 ### Example 1
 
-![](./assets/538.Convert_BST_to_Greater_Tree.png)
+![](./assets/1038.Binary_Search_Tree_to_Greater_Sum_Tree.png)
 
 ```
 Input: root = [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
