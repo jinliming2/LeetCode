@@ -62,6 +62,7 @@ LeetCode OJ
 1. [438 Find All Anagrams in a String](./problems/438_Find_All_Anagrams_in_a_String.md)
 1. [450 Delete Node in a BST](./problems/450_Delete_Node_in_a_BST.md)
 1. [454 4Sum II](./problems/454_4Sum_II.md)
+1. [460 LFU Cache](./problems/460_LFU_Cache.md)
 1. [509 Fibonacci Number](./problems/509_Fibonacci_Number.md)
 1. [538 Convert BST to Greater Tree](./problems/538_Convert_BST_to_Greater_Tree.md)
 1. [567 Permutation in String](./problems/567_Permutation_in_String.md)
