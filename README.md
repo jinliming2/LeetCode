@@ -76,6 +76,7 @@ LeetCode OJ
 1. [701 Insert into a Binary Search Tree](./problems/701_Insert_into_a_Binary_Search_Tree.md)
 1. [704 Binary Search](./problems/704_Binary_Search.md)
 1. [714 Best Time to Buy and Sell Stock with Transaction Fee](./problems/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md)
+1. [739 Daily Temperatures](./problems/739_Daily_Temperatures.md)
 1. [752 Open the Lock](./problems/752_Open_the_Lock.md)
 1. [986 Interval List Intersections](./problems/986_Interval_List_Intersections.md)
 1. [990 Satisfiability of Equality Equations](./problems/990_Satisfiability_of_Equality_Equations.md)
