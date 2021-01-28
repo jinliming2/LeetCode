@@ -50,6 +50,7 @@ LeetCode OJ
 1. [222 Count Complete Tree Nodes](./problems/222_Count_Complete_Tree_Nodes.md)
 1. [226 Invert Binary Tree](./problems/226_Invert_Binary_Tree.md)
 1. [230 Kth Smallest Element in a BST](./problems/230_Kth_Smallest_Element_in_a_BST.md)
+1. [232 Implement Queue using Stacks](./problems/232_Implement_Queue_using_Stacks.md)
 1. [234 Palindrome Linked List](./problems/234_Palindrome_Linked_List.md)
 1. [236 Lowest Common Ancestor of a Binary Tree](./problems/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
 1. [239 Sliding Window Maximum](./problems/239_Sliding_Window_Maximum.md)
