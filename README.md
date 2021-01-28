@@ -48,6 +48,7 @@ LeetCode OJ
 1. [198 House Robber](./problems/198_House_Robber.md)
 1. [213 House Robber II](./problems/213_House_Robber_II.md)
 1. [222 Count Complete Tree Nodes](./problems/222_Count_Complete_Tree_Nodes.md)
+1. [225 Implement Stack using Queues](./problems/225_Implement_Stack_using_Queues.md)
 1. [226 Invert Binary Tree](./problems/226_Invert_Binary_Tree.md)
 1. [230 Kth Smallest Element in a BST](./problems/230_Kth_Smallest_Element_in_a_BST.md)
 1. [232 Implement Queue using Stacks](./problems/232_Implement_Queue_using_Stacks.md)
