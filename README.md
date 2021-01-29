@@ -81,6 +81,7 @@ LeetCode OJ
 1. [714 Best Time to Buy and Sell Stock with Transaction Fee](./problems/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md)
 1. [739 Daily Temperatures](./problems/739_Daily_Temperatures.md)
 1. [752 Open the Lock](./problems/752_Open_the_Lock.md)
+1. [875 Koko Eating Bananas](./problems/875_Koko_Eating_Bananas.md)
 1. [986 Interval List Intersections](./problems/986_Interval_List_Intersections.md)
 1. [990 Satisfiability of Equality Equations](./problems/990_Satisfiability_of_Equality_Equations.md)
 1. [1038 Binary Search Tree to Greater Sum Tree](./problems/1038_Binary_Search_Tree_to_Greater_Sum_Tree.md)
