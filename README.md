@@ -46,6 +46,7 @@ LeetCode OJ
 1. [142 Linked List Cycle II](./problems/142_Linked_List_Cycle_II.md)
 1. [144 Binary Tree Preorder Traversal](./problems/144_Binary_Tree_Preorder_Traversal.md)
 1. [146 LRU Cache](./problems/146_LRU_Cache.md)
+1. [167 Two Sum II - Input array is sorted](./problems/167_Two_Sum_II_Input_array_is_sorted.md)
 1. [188 Best Time to Buy and Sell Stock IV](./problems/188_Best_Time_to_Buy_and_Sell_Stock_IV.md)
 1. [198 House Robber](./problems/198_House_Robber.md)
 1. [213 House Robber II](./problems/213_House_Robber_II.md)
