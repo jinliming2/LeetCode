@@ -43,6 +43,7 @@ LeetCode OJ
 1. [123 Best Time to Buy and Sell Stock III](./problems/123_Best_Time_to_Buy_and_Sell_Stock_III.md)
 1. [130 Surrounded Regions](./problems/130_Surrounded_Regions.md)
 1. [141 Linked List Cycle](./problems/141_Linked_List_Cycle.md)
+1. [142 Linked List Cycle II](./problems/142_Linked_List_Cycle_II.md)
 1. [144 Binary Tree Preorder Traversal](./problems/144_Binary_Tree_Preorder_Traversal.md)
 1. [146 LRU Cache](./problems/146_LRU_Cache.md)
 1. [188 Best Time to Buy and Sell Stock IV](./problems/188_Best_Time_to_Buy_and_Sell_Stock_IV.md)

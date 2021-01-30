@@ -2,31 +2,31 @@ package main
 
 import "testing"
 
-func buildTests() map[*ListNode]bool {
-	res := make(map[*ListNode]bool, 5)
+func buildTests() map[*ListNode]*ListNode {
+	res := make(map[*ListNode]*ListNode, 5)
 	a, b, c, d := &ListNode{3, nil}, &ListNode{2, nil}, &ListNode{0, nil}, &ListNode{4, nil}
 	a.Next = b
 	b.Next = c
 	c.Next = d
 	d.Next = b
-	res[a] = true
+	res[a] = b
 	a, b = &ListNode{1, nil}, &ListNode{2, nil}
 	a.Next = b
 	b.Next = a
-	res[a] = true
+	res[a] = a
 	a = &ListNode{1, nil}
-	res[a] = false
-	res[nil] = false
+	res[a] = nil
+	res[nil] = nil
 	a, b = &ListNode{1, nil}, &ListNode{2, nil}
 	a.Next = b
-	res[a] = false
+	res[a] = nil
 	return res
 }
 
-func TestHasCycle(t *testing.T) {
+func TestDetectCycle(t *testing.T) {
 	for input, output := range buildTests() {
-		if value := hasCycle(input); value != output {
-			t.Errorf("Expected hasCycle(%v) == %t, But got %t", input, output, value)
+		if value := detectCycle(input); value != output {
+			t.Errorf("Expected detectCycle(%v) == %v, But got %v", input, output, value)
 		}
 	}
 }
