@@ -84,6 +84,7 @@ LeetCode OJ
 1. [700 Search in a Binary Search Tree](./problems/700_Search_in_a_Binary_Search_Tree.md)
 1. [701 Insert into a Binary Search Tree](./problems/701_Insert_into_a_Binary_Search_Tree.md)
 1. [704 Binary Search](./problems/704_Binary_Search.md)
+1. [710 Random Pick with Blacklist](./problems/710_Random_Pick_with_Blacklist.md)
 1. [714 Best Time to Buy and Sell Stock with Transaction Fee](./problems/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md)
 1. [739 Daily Temperatures](./problems/739_Daily_Temperatures.md)
 1. [752 Open the Lock](./problems/752_Open_the_Lock.md)
