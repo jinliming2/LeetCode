@@ -94,4 +94,5 @@ LeetCode OJ
 1. [990 Satisfiability of Equality Equations](./problems/990_Satisfiability_of_Equality_Equations.md)
 1. [1011 Capacity To Ship Packages Within D Days](./problems/1011_Capacity_To_Ship_Packages_Within_D_Days.md)
 1. [1038 Binary Search Tree to Greater Sum Tree](./problems/1038_Binary_Search_Tree_to_Greater_Sum_Tree.md)
+1. [1081 Smallest Subsequence of Distinct Characters](./problems/1081_Smallest_Subsequence_of_Distinct_Characters.md)
 1. [1288 Remove Covered Intervals](./problems/1288_Remove_Covered_Intervals.md)
