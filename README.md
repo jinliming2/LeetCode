@@ -25,6 +25,7 @@ LeetCode OJ
 1. [18 4Sum](./problems/18_4Sum.md)
 1. [19 Remove Nth Node From End of List](./problems/19_Remove_Nth_Node_From_End_of_List.md)
 1. [25 Reverse Nodes in k-Group](./problems/25_Reverse_Nodes_in_k_Group.md)
+1. [26 Remove Duplicates from Sorted Array](./problems/26_Remove_Duplicates_from_Sorted_Array.md)
 1. [29 Divide Two Integers](./problems/29_Divide_Two_Integers.md)
 1. [34 Find First and Last Position of Element in Sorted Array](./problems/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
 1. [46 Permutations](./problems/46_Permutations.md)
