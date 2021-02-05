@@ -33,6 +33,7 @@ LeetCode OJ
 1. [56 Merge Intervals](./problems/56_Merge_Intervals.md)
 1. [65 Valid Number](./problems/65_Valid_Number.md)
 1. [76 Minimum Window Substring](./problems/76_Minimum_Window_Substring.md)
+1. [83 Remove Duplicates from Sorted List](./problems/83_Remove_Duplicates_from_Sorted_List.md)
 1. [92 Reverse Linked List II](./problems/92_Reverse_Linked_List_II.md)
 1. [98 Validate Binary Search Tree](./problems/98_Validate_Binary_Search_Tree.md)
 1. [105 Construct Binary Tree from Preorder and Inorder Traversal](./problems/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)
