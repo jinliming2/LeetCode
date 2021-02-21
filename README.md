@@ -94,6 +94,7 @@ LeetCode OJ
 1. [875 Koko Eating Bananas](./problems/875_Koko_Eating_Bananas.md)
 1. [986 Interval List Intersections](./problems/986_Interval_List_Intersections.md)
 1. [990 Satisfiability of Equality Equations](./problems/990_Satisfiability_of_Equality_Equations.md)
+1. [991 Broken Calculator](./problems/991_Broken_Calculator.md)
 1. [1011 Capacity To Ship Packages Within D Days](./problems/1011_Capacity_To_Ship_Packages_Within_D_Days.md)
 1. [1038 Binary Search Tree to Greater Sum Tree](./problems/1038_Binary_Search_Tree_to_Greater_Sum_Tree.md)
 1. [1081 Smallest Subsequence of Distinct Characters](./problems/1081_Smallest_Subsequence_of_Distinct_Characters.md)
